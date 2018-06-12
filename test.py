@@ -19,4 +19,8 @@ def g(x):
 
 
 pi_2, err = integrate.quad(g, -1, 1)
-print(pi_2 * 2)  
+print(pi_2 * 2)
+
+
+#modifyby ywf
+print(pi_2 * 2)
